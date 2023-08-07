@@ -14,6 +14,6 @@ Software: Jupyter Notebooks, Excel
 **Aggregating and filtering data:** various statistics and aggregations to get first insights.  
 **Merging data:** combining the above dataframes into one large dataframe and exporting merged dataframe as a pickle.    
 **Deriving new variables:** such as customer loyalty flags, price categories, US regions, customer profiling categories, and more.  
-**sampling data** with random seeds to draw a representative miniature dataframe for RAM-intense line charts.
+**sampling data** with random seeds to draw a representative miniature dataframe for RAM-intense line charts.  
 **Visualizations** Using bar charts, line-charts, histograms, scatterplots and pie charts to simplify data and present findings.  
 **Presenting insights and recommendations:** An Excel file combines all visuals, results, recommendations and steps done with tha various dataframes. 
